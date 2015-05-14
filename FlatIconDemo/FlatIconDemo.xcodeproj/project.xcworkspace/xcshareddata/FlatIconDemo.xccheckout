@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4A4B64FF-392E-44A3-8D51-B329616B8BB3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FlatIconDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>25BCDF3048260A144D1497BE5763217F961F65FD</key>
+		<string>https://github.com/palcalde/FlatIcon.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FlatIconDemo/FlatIconDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>25BCDF3048260A144D1497BE5763217F961F65FD</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/palcalde/FlatIcon.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>25BCDF3048260A144D1497BE5763217F961F65FD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>25BCDF3048260A144D1497BE5763217F961F65FD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FlatIcon</string>
+		</dict>
+	</array>
+</dict>
+</plist>
