@@ -1,7 +1,8 @@
-# FlatIcon
+# FlatIcon 
 iOS NSString and UIFont categories to use the iconset http://www.flaticon.com/packs/ios7-set-lined-1 in UILabels.
 
-- Full list of available icons: http://rawgit.com/palcalde/FlatIcon/master/flaticon.html
+- Full list of available icons in these categories: http://rawgit.com/palcalde/FlatIcon/master/flaticon.html
+- They have a lot more free in their website: http://www.flaticon.com/
 
 # Installation
 * Download this repo and drag flaticon.ttf to your project (leave 'Copy items if needed' in the box enabled) and make sure you selected your Target Membership in the box 'Add to targets'.
@@ -24,4 +25,4 @@ This will show as:
 https://github.com/alexdrone/ios-fontawesome
 
 # Credits
-This iconset was designed by Freepick http://www.flaticon.com/authors/freepik
+This iconset was designed by Freepick http://www.freepik.com/
